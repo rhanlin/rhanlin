@@ -12,16 +12,3 @@ I’m currently working on HTC VIVEPORT as Software Enginner. I am passionate ab
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)&ensp;
 ![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;
 
-
-### Some snapshots of side projects.
-
-🌱 Temperature Monitoring Systems for Grain Storage, CYTC
-![side-projects-cytc](https://github.com/rhanlin/rhanlin/assets/54620681/1140ac55-cd9b-43f2-95d8-f6e394c721a4)
-
-Service Schedule Planning System, CLC
-![side-projects-clc](https://github.com/rhanlin/rhanlin/assets/54620681/0eddb973-e8b3-430c-a59f-8fbb2294d856)
-
-QT everyday LINE Bot
-![side-projects-line](https://github.com/rhanlin/rhanlin/assets/54620681/a758419e-3e61-49c3-960f-da4c1f267737)
-
-
