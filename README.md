@@ -9,6 +9,5 @@ I’m currently working on HTC VIVEPORT as Software Enginner. I am passionate ab
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=FFFFFF)&ensp;
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)&ensp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-34495E?style=flat-square&logo=Vue.js)&ensp;
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)&ensp;
 ![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;
 
