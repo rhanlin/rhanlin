@@ -1,6 +1,6 @@
 # Hi, I'm rhanlin! 👋
 
-I’m currently working on HTC VIVEPORT as Software Enginner. I am passionate about pursuing innovation and solving problems, and I maintain an open mindset when facing many unknown challenges. I also enjoy studying software architecture and finding the right framework to solve the challenges of product development. Check [my note](https://rhanlin.github.io/myblog/).
+I’m currently working on HTC VIVEPORT as Software Enginner. I am passionate about pursuing innovation and solving problems, and I maintain an open mindset when facing many unknown challenges. I also enjoy studying software architecture and finding the right framework to solve the challenges of product development. 
 
 
 ### In use and learning:
